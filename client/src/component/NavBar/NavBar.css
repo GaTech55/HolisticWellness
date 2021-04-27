@@ -1,0 +1,22 @@
+#navBar{
+    background-color: #D2EDF3 !important;
+    color: white;
+
+}
+nav{
+    font-family: 'Cinzel', serif;
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: #ac7e40 !important;
+    margin:auto;
+
+}
+.navLink{
+    border: 3px solid #ac7e40;
+}
+/* .nav-link{
+    color: rgba(0, 0, 0, 1) i !important;
+} */
+.dropdown-menu{
+    background-color:  #D2EDF3 !important;
+}
