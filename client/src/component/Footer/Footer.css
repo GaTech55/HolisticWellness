@@ -1,0 +1,29 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 60px !important;
+    line-height: 60px;
+    background-color: rgb(5, 12, 21);
+    text-align: center;
+    border-top: 10px rgb(0,195,99);
+    color: #6c757d;
+    flex-shrink: 0;
+}
+
+.footer-container{
+    display: block;
+    padding: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+/* For Screens larger than normal window */
+@media(min-width:999px){
+    .footer
+    {position: fixed;
+        width: 100%;
+    }
+
+}
