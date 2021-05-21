@@ -32,8 +32,8 @@ const NavBar = () => {
             <LinkContainer to="/">
               <Nav.Link className="mx-2 px-4 Nav.Link">Podcast</Nav.Link>
             </LinkContainer>
-            <LinkContainer to="/">
-              <Nav.Link to="#link" className="mx-2 px-4 Nav.Link">
+            <LinkContainer to="/contact">
+              <Nav.Link className="mx-2 px-4 Nav.Link">
                 Contact
               </Nav.Link>
             </LinkContainer>
