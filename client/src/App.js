@@ -6,6 +6,7 @@ import Mind from "./containers/Mind/Mind";
 import Body from "./containers/Body/Body";
 import Spirit from "./containers/Spirit/Spirit";
 import Motherhood from "./containers/Motherhood/Motherhood";
+import Contact from "./containers/Contact/Contact";
 import Footer from "./component/Footer/Footer";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
@@ -19,6 +20,7 @@ function App() {
         <Route exact path="/body" component={Body} />
         <Route exact path="/spirit" component={Spirit} />
         <Route exact path="/motherhood" component={Motherhood} />
+        <Route exact path="/contact" component={Contact} />
       </Switch>
       <Footer />
     </Router>
