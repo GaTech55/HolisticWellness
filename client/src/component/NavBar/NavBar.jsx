@@ -53,15 +53,22 @@ const NavBar = () => {
                   Mind
                 </NavDropdown.Item>
               </LinkContainer>
-              <NavDropdown.Item className="dropdownItem" href="#action/3.2">
-                Body
-              </NavDropdown.Item>
-              <NavDropdown.Item className="dropdownItem" href="#action/3.3">
-                Spirit
-              </NavDropdown.Item>
-              <NavDropdown.Item className="dropdownItem" href="#action/3.4">
-                Motherhood
-              </NavDropdown.Item>
+              <LinkContainer to="/body">
+                <NavDropdown.Item className="dropdownItem">
+                  Body
+                </NavDropdown.Item>
+              </LinkContainer>
+              <LinkContainer to="/spirit">
+                <NavDropdown.Item className="dropdownItem">
+                  Spirit
+                </NavDropdown.Item>
+              </LinkContainer>
+              <LinkContainer to="/motherhood">
+                <NavDropdown.Item className="dropdownItem">
+                  Motherhood
+                </NavDropdown.Item>
+              </LinkContainer>
+
             </NavDropdown>
           </Nav>
           {/* <Form inline>
