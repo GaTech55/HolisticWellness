@@ -2,29 +2,29 @@
     {
         "id": 1,
         "name": "Mind",
-        "body" : "I am the text",
-        "imgUrl": "https://i.swncdn.com/media/800w/via/16989-gettyimages-1256602998-metamorworks.webp",
+        "body" : "Let's explore mental wellness! Here you will find content about mindfulness, thought control, and building your social support system.",
+        "imgUrl": "https://res.cloudinary.com/banana-force/image/upload/v1626228248/iStock-1292135646_szp6tb.jpg",
         "urlPath": "/mind"
     },
     {
         "id": 2,
         "name": "Body",
-        "body" : "I am the text",
-        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/216/1015/669/heart-background-wallpaper-preview.jpg",
+        "body" : "Physical well-being includes both nutrition and exercise. Here I will include content about Nutrition, Whole foods ways of eating, exercise, and physical activity.",
+        "imgUrl": "https://res.cloudinary.com/banana-force/image/upload/v1626228248/iStock-1321717315_xiaepj.jpg",
         "urlPath": "/body"
     },
     {
         "id": 3,
         "name": "Spirit",
-        "body" : "I am the text",
-        "imgUrl": "https://michaelwelchertdotcom.files.wordpress.com/2013/10/breath.jpg",
+        "body" : "As humans, we are multifaceted.  We operate as both physical and spiritual beings. In this section, I will describe how I have found certain practices that support my spiritual being.",
+        "imgUrl": "https://res.cloudinary.com/banana-force/image/upload/v1626227184/iStock-583733882_yrxznr.jpg",
         "urlPath": "/spirit"
     },
     {
         "id": 4,
         "name": "Motherhood",
-        "body" : "What does it mean to be a mother? This looks different to all of us. In this section it is so important that we dig into your personal view of what a mom looks like. Much of what we know about being maternal is taken from our families of origin. We will review and discuss this in detail during our time together. It is important to note that judgment is a toxic energy in a self discovery process. We are taking a close look at our past, present and future holding it gently without labeling or judging ourselves or those we love.",
-        "imgUrl": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_18/1431815/modern-motherhood-today-main-190430.jpg",
+        "body" : "What does it mean to be a mother? This looks different to all of us. In this section, I will share content that empowers and encouraged the momma in all of us!",
+        "imgUrl": "https://res.cloudinary.com/banana-force/image/upload/v1626227189/iStock-1008984742_bvraas.jpg",
         "urlPath": "/motherhood"
     }
 ]
