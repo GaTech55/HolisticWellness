@@ -29,19 +29,19 @@ const NavBar = () => {
             <LinkContainer to="/about">
               <Nav.Link className="mx-2 px-4 Nav.Link">About</Nav.Link>
             </LinkContainer>
-            <LinkContainer to="/">
+            {/* <LinkContainer to="/">
               <Nav.Link className="mx-2 px-4 Nav.Link">Podcast</Nav.Link>
-            </LinkContainer>
+            </LinkContainer> */}
             <LinkContainer to="/contact">
               <Nav.Link className="mx-2 px-4 Nav.Link">
                 Contact
               </Nav.Link>
             </LinkContainer>
-            <LinkContainer to="/">
+            {/* <LinkContainer to="/">
               <Nav.Link to="#link" className="mx-2 px-4 Nav.Link">
                 Products
               </Nav.Link>
-            </LinkContainer>
+            </LinkContainer> */}
             <NavDropdown
               title="Services"
               id="basic-nav-dropdown"
